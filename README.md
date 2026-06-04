@@ -64,6 +64,13 @@ Generación de recomendaciones para optimizar conversión y crecimiento.
 ## 🛠️HERRAMIENTAS UTILIZADAS
 ●SQL  ●Common Table Expressions (CTEs)  ●Window Functions  ●Funnel Analysis  ●Cohort Analysis ●Product Analytics  ●Data Visualization
 
+## DATASETS DEL PROYECTO 
 
-
+ **mercadolibre_funnel**
+  Registra eventos de usuarios durante el proceso de compra
+ **mercadolibre_retention**
+  Mide actividad recurrente por usuario y periodo.
+  ### Definición del Macro Journey (Embudo General)
+  ●first_visit  ●select_item / select_promotion  ●add_to_cart  ●begin_checkout  ●add_shipping_info
+  ●add_payment_info  ●purchase
 
