@@ -1,6 +1,6 @@
 
 # Análisis de Embudo y Retención para Mercado Libre
-##🎯PROBLEMA 
+## 🎯PROBLEMA 
 
 Como analista de producto dentro del equipo de Crecimiento y Retención, el objetivo era identificar en qué etapas del proceso de compra los usuarios abandonan la plataforma y evaluar qué tan efectivas son las estrategias de retención.
 
